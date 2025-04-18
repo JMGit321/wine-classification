@@ -1,4 +1,4 @@
-# 🍷 Wine Quality Analysis
+# 🍷 Wine Type Classification using Machine Learning
 
 This repository contains a Jupyter Notebook that performs exploratory data analysis (EDA) and basic predictive modeling on two wine quality datasets: one for red wine and another for white wine.
 
