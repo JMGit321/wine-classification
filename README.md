@@ -55,7 +55,6 @@ Source: [UCI Machine Learning Repository – Wine Quality Dataset](https://archi
 
 - Distribution of wine quality ratings  
 - Correlation heatmaps of wine features  
-- Pairplots and scatter plots of key variables  
 
 ## 🤖 Machine Learning Models
 
